@@ -4,4 +4,4 @@ class ThemedDecorations extends React.Component {
   
 }
 
-exports
+export default ThemedDecorations;
