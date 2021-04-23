@@ -1,1 +1,1 @@
-// Code ThemedDecoration Component Here
+import from React 
