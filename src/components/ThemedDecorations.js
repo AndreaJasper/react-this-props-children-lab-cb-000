@@ -10,7 +10,7 @@ class ThemedDecorations extends React.Component {
     
     return(
       <div className="">
-      
+        {childWithClass}
       </div>
     );
   }
